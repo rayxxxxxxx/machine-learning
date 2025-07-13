@@ -1,1 +1,0 @@
-# Simple Hopfield Network implementation
